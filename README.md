@@ -11,8 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonali-d-aiml)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sonali200678)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sonali200678&color=blue&style=flat)
-
+![Profile Views](https://komarev.com/ghpvc/?username=sonali200678&label=Profile%20Views&color=brightgreen&style=flat-square)
 </div>
 
 ---
