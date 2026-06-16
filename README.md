@@ -73,7 +73,7 @@ A centralized platform for tracking tasks, monitoring progress, and evaluating p
 **🎯 Purpose:** Streamline mentorship workflow and performance tracking  
 **📌 Highlight:** Role-based dashboards + analytics-driven evaluation  
 
-🔗 Repo: *(add link here)*
+🔗 Repo: *(https://github.com/sonali200678/LUMINA-LEARN)*
 
 ---
 
