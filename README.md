@@ -109,9 +109,9 @@ A personal finance analytics app for tracking expenses, categorizing transaction
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(add link here)*
+- LinkedIn: *(https://www.linkedin.com/in/sonali-d-aiml)*
 - GitHub: *(you are here 😄)*
-- Email: *(add if needed)*
+- Email: *(sonalisowmi@gmail.com)*
 
 ---
 
