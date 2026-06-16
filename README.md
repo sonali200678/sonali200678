@@ -88,3 +88,31 @@ A personal finance analytics app for tracking expenses, categorizing transaction
 🔗 Repo: *(add link here)*
 
 ---
+
+## 🌱 Currently Learning
+
+- Advanced LLM architectures
+- Agentic AI systems (LangGraph deep dive)
+- MLOps basics
+- Real-world RAG applications
+
+---
+
+## 🎯 Goals
+
+- Build production-level AI applications
+- Contribute to open-source AI projects
+- Land a strong internship in AI/ML or Data Science
+- Master LLM-based system design
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *(add link here)*
+- GitHub: *(you are here 😄)*
+- Email: *(add if needed)*
+
+---
+
+⭐ *“Building AI systems that solve real-world problems, one project at a time.”*
